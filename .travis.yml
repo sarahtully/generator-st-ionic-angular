@@ -1,7 +1,9 @@
 language: node_js
 node_js:
-  - iosjs
+  - node
   - v7
   - v6
   - v5
   - v4
+install:
+  - npm install
