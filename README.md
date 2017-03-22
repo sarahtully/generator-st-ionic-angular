@@ -34,5 +34,5 @@ MIT © [Sarah Tully](sarahtully.com)
 [travis-url]: https://travis-ci.org/sarahtully/generator-st-ionic-angular
 [daviddm-image]: https://david-dm.org/sarahtully/generator-st-ionic-angular.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/sarahtully/generator-st-ionic-angular
-[coveralls-image]: https://coveralls.io/repos/sarahtully/generator-st-ionic-angular/badge.svg
-[coveralls-url]: https://coveralls.io/r/sarahtully/generator-st-ionic-angular
+[coveralls-image]: https://coveralls.io/repos/github/sarahtully/generator-st-ionic-angular/badge.svg?branch=master
+[coveralls-url]: https://coveralls.io/repos/github/sarahtully/generator-st-ionic-angular?branch=master
